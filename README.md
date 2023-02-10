@@ -1,1 +1,0 @@
-# Website for WDA devlopment team.
